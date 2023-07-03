@@ -29,7 +29,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 - Access the application in your web browser at `http://localhost:7777`
 
 #### 2. Running direct `.exe` file:
-- Download latest windows executable file from [here](), (also you can visit [releases](https://github.com/Divinemonk/dataentry_webapp/releases))
+- Download latest windows executable file from [here](https://github.com/Divinemonk/dataentry_webapp/releases/latest/download/DataEntry_WebApp.exe), (also you can visit [releases](https://github.com/Divinemonk/dataentry_webapp/releases))
 - Double click the executable to run the program
 - Access the application in your web browser at `http://localhost:7777`
 
