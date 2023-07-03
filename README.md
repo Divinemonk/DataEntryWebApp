@@ -35,7 +35,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 - Double click the executable to run the program
 - Access the application in your web browser at `http://localhost:7777`
 
-#### 2. Linux lsb executable file:
+#### 2. Linux LSB executable file:
 - Download latest windows executable file from [here](https://github.com/Divinemonk/DataEntryWebApp/releases/latest/download/DataEntryWebApp)
 - Double click the executable to run the program
 - Access the application in your web browser at `http://localhost:7777`
