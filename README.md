@@ -8,7 +8,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 
 ## Features
 
-- **Effortless Data Entry**: With its clean and intuitive interface, DataEntry_WebApp ensures a smooth data entry experience. Users can quickly input information like names, genders, emails, addresses, and roles. The application includes robust validation checks, ensuring data integrity and completeness.
+- **Effortless Data Entry**: With its clean and intuitive interface, Data Entry WebApp ensures a smooth data entry experience. Users can quickly input information like names, genders, emails, addresses, and roles. The application includes robust validation checks, ensuring data integrity and completeness.
 
 - **Secure Data Storage and Retrieval**: All entered data is securely stored in an Excel file (.xlsx) on the server, powered by the reliable openpyxl library. This guarantees easy data storage and retrieval, giving you peace of mind knowing your data is safe.
 
@@ -18,22 +18,21 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/<username>/dataentry_webapp.git`
-2. Navigate to the project directory: `cd dataentry_webapp`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Run the application: `python app.py`
-5. Access the application in your web browser at `http://localhost:7777`
+#### 1. Using `git`:
+- Clone the repository: `git clone https://github.com/<username>/dataentry_webapp.git`
+- Navigate to the project directory: `cd dataentry_webapp`
+- Install the required dependencies: `pip install -r requirements.txt`
+- Run the application: `python app.py`
+- Access the application in your web browser at `http://localhost:7777`
 
-## Deployment
+#### 2. Running direct `.exe` file:
+- Download latest windows executable file from [here](), (also you can visit [releases](https://github.com/Divinemonk/dataentry_webapp/releases))
+- Double click the executable to run the program
+- Access the application in your web browser at `http://localhost:7777`
 
-Ready to deploy DataEntry_WebApp in a production environment? Follow these steps:
+> After running the app.py/exe, the program will open the web application in the default browser
 
-1. Ensure you have a compatible server or cloud platform.
-2. Install the necessary dependencies outlined in the requirements.txt file.
-3. Set the Flask environment variable to "production": `export FLASK_ENV=production`
-4. Utilize a production-grade WSGI server like Gunicorn to run the application: `gunicorn app:app`
-5. Configure any required environment variables for your deployment.
-6. Access the application through the appropriate URL or IP address.
+<br>
 
 ## Contributing
 
@@ -41,12 +40,18 @@ We welcome contributions from the community! If you encounter any issues or have
 
 ## License
 
-DataEntry_WebApp is released under the [MIT License](LICENSE).
+Data Entry WebApp is released under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-DataEntry_WebApp was built using the Flask web framework and leverages the openpyxl library for Excel file management. We extend our gratitude to the Flask and openpyxl communities for their invaluable contributions and support.
+We would like to express our sincere appreciation to the following projects and their respective communities for their valuable contributions to the development of the Data Entry Web App.
 
-## Contact
+[Flask](https://github.com/pallets/flask), a powerful Python web framework, provided the foundation for our application. Its simplicity, flexibility, and extensive ecosystem enabled us to create a robust and user-friendly web application. We are grateful for the Flask community's continuous support and for making web development in Python a breeze.
 
-For any inquiries or questions, please reach out to the project maintainer at your-email@example.com. We're excited to hear from you!
+[Openpyxl](https://github.com/theorchard/openpyxl), an essential component of our project, greatly enhanced the accessibility and user experience of our application by enabling it to open in the default web browser. We extend our thanks to the OpenXGL community for their efforts in developing this useful tool.
+
+WebBrowser, another crucial component, facilitated seamless interaction between our application and the user's preferred web browser. Its integration allowed for a smoother and more intuitive user experience. We are grateful for the WebBrowser project and its developers' dedication.
+
+[Gunicorn](https://github.com/benoitc/gunicorn), a high-performance WSGI HTTP server, played a vital role in deploying our application in a production environment. Its ability to handle concurrent requests efficiently ensured optimal performance and reliability. We would like to extend our appreciation to the Gunicorn community for their exceptional work.
+
+We would also like to acknowledge the wider open-source community for their continuous support, knowledge sharing, and feedback. The collaborative spirit and contributions from developers around the world have greatly enriched our project.
