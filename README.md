@@ -16,6 +16,8 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 
 - **Flexible Data Editing and Deletion**: DataEntry_WebApp allows users to edit or delete existing records directly from the web interface. This simplifies data management, facilitating updates and corrections as needed.
 
+<br>
+
 ## Installation and Usage
 
 #### 1. Using `git`:
