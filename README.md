@@ -6,6 +6,8 @@
 
 Data Entry Web App is a sleek and user-friendly web application designed to streamline data entry and management processes. Built with Flask, a powerful Python web framework, this application offers a hassle-free solution for efficient data handling, making it the perfect tool for small to medium-sized data-driven projects.
 
+<br>
+
 ## Features
 
 - **Effortless Data Entry**: With its clean and intuitive interface, Data Entry WebApp ensures a smooth data entry experience. Users can quickly input information like names, genders, emails, addresses, and roles. The application includes robust validation checks, ensuring data integrity and completeness.
@@ -14,7 +16,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 
 - **Seamless Data Exploration**: The tabular data view provides a comprehensive overview of your entered data. Browse, search, sort, and filter records effortlessly. This enables efficient data analysis and quick access to specific information.
 
-- **Flexible Data Editing and Deletion**: DataEntry_WebApp allows users to edit or delete existing records directly from the web interface. This simplifies data management, facilitating updates and corrections as needed.
+- **Flexible Data Editing and Deletion**: Data Entry WebApp allows users to edit or delete existing records directly from the web interface. This simplifies data management, facilitating updates and corrections as needed.
 
 <br>
 
