@@ -1,7 +1,7 @@
 # Data Entry WebApp
 
 <div align="center">
-  <img src="https://github.com/Divinemonk/dataentry_webapp/assets/82360546/2efe0eb3-1e44-4711-9a4a-f718173e05a1" alt="DataEntry_WebApp" align="left">
+  <img src="https://github.com/Divinemonk/DataEntryWebApp/assets/82360546/2efe0eb3-1e44-4711-9a4a-f718173e05a1" alt="DataEntry_WebApp" align="left">
 </div>
 
 Data Entry Web App is a sleek and user-friendly web application designed to streamline data entry and management processes. Built with Flask, a powerful Python web framework, this application offers a hassle-free solution for efficient data handling, making it the perfect tool for small to medium-sized data-driven projects.
@@ -22,14 +22,14 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 ## Installation and Usage
 
 #### 1. Using `git`:
-- Clone the repository: `git clone https://github.com/Divinemonk/dataentry_webapp.git`
+- Clone the repository: `git clone https://github.com/Divinemonk/DataEntryWebApp.git`
 - Navigate to the project directory: `cd dataentry_webapp`
 - Install the required dependencies: `pip install -r requirements.txt`
 - Run the application: `python DataEntryWebApp.py`
 - Access the application in your web browser at `http://localhost:7777`
 
 #### 2. Running direct `.exe` file:
-- Download latest windows executable file from [here](https://github.com/Divinemonk/dataentry_webapp/releases/latest/download/DataEntry_WebApp.exe), (also you can visit [releases](https://github.com/Divinemonk/dataentry_webapp/releases) for all avaliable versions)
+- Download latest windows executable file from [here](https://github.com/Divinemonk/DataEntryWebApp/releases/latest/download/DataEntryWebApp.exe), (also you can visit [releases](https://github.com/Divinemonk/DataEntryWebApp/releases) for all avaliable versions)
 - Double click the executable to run the program
 - Access the application in your web browser at `http://localhost:7777`
 
