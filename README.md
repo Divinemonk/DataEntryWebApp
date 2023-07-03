@@ -21,7 +21,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 
 ## Installation and Usage
 
-> After running the app.py/exe, the program will open the web application in the default browser
+> After running the .py/.exe, the program will open the web application in the default browser
 
 #### 1. Using `git`:
 - Clone the repository: `git clone https://github.com/Divinemonk/DataEntryWebApp.git`
