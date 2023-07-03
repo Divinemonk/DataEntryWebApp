@@ -6,7 +6,6 @@
 
 Data Entry Web App is a sleek and user-friendly web application designed to streamline data entry and management processes. Built with Flask, a powerful Python web framework, this application offers a hassle-free solution for efficient data handling, making it the perfect tool for small to medium-sized data-driven projects.
 
-<br>
 
 ## Features
 
