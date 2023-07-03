@@ -30,10 +30,17 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 - Run the application: `python DataEntryWebApp.py`
 - Access the application in your web browser at `http://localhost:7777`
 
-#### 2. Running direct `.exe` file:
-- Download latest windows executable file from [here](https://github.com/Divinemonk/DataEntryWebApp/releases/latest/download/DataEntryWebApp.exe), (also you can visit [releases](https://github.com/Divinemonk/DataEntryWebApp/releases) for all avaliable versions)
+#### 2. Windows executable (`.exe`) file:
+- Download latest windows executable file from [here](https://github.com/Divinemonk/DataEntryWebApp/releases/latest/download/DataEntryWebApp.exe)
 - Double click the executable to run the program
 - Access the application in your web browser at `http://localhost:7777`
+
+#### 2. Linux lsb executable file:
+- Download latest windows executable file from [here](https://github.com/Divinemonk/DataEntryWebApp/releases/latest/download/DataEntryWebApp)
+- Double click the executable to run the program
+- Access the application in your web browser at `http://localhost:7777`
+
+> Check out [releases](https://github.com/Divinemonk/DataEntryWebApp/releases) for all avaliable versions
 
 <br>
 
