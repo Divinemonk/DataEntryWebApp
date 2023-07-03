@@ -1,4 +1,4 @@
-# Data Entry WebApp
+# Data Entry Web App
 
 <div align="center">
   <img src="https://github.com/Divinemonk/DataEntryWebApp/assets/82360546/2efe0eb3-1e44-4711-9a4a-f718173e05a1" alt="DataEntry_WebApp" align="left">
