@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Data</title>
+    <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">    
+    <style>
+        body {
+            background-color: #F5F5F5;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333333;
+        }
+
+        form {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #FFFFFF;
+            padding: 20px;
+            border-radius: 4px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding-bottom: 3.5%;
+        }
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 10px;
+            border: 1px solid #CCCCCC;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: #FFFFFF;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            float: right;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Edit Data</h1>
+
+    <form action="/edit_data/{{ row_id }}" method="POST">
+        <input type="text" name="name" value="{{ row[1] }}" placeholder="Name" required>
+        <input type="text" name="gender" value="{{ row[2] }}" placeholder="Gender" required>
+        <input type="text" name="email" value="{{ row[3] }}" placeholder="Email" required>
+        <input type="text" name="address" value="{{ row[4] }}" placeholder="Address" required>
+        <input type="text" name="role" value="{{ row[5] }}" placeholder="Role" required>
+        <button type="submit">Update</button>
+    </form>
+</body>
+</html>
