@@ -25,7 +25,7 @@ Data Entry Web App is a sleek and user-friendly web application designed to stre
 - Clone the repository: `git clone https://github.com/Divinemonk/dataentry_webapp.git`
 - Navigate to the project directory: `cd dataentry_webapp`
 - Install the required dependencies: `pip install -r requirements.txt`
-- Run the application: `python app.py`
+- Run the application: `python DataEntryWebApp.py`
 - Access the application in your web browser at `http://localhost:7777`
 
 #### 2. Running direct `.exe` file:
